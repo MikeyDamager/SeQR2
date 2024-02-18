@@ -62,7 +62,7 @@ let qrRoll = Math.random()
 if(qrRoll <= 0.5){
   bg = loadImage("assets/qr6.png");
 }else if(qrRoll > 0.5 && qrRoll <=1){
-  bg = loadImage("assets/qrStage2.png");
+  bg = loadImage("assets/qr6.png");
 } 
 
 }
